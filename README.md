@@ -1,1 +1,1 @@
-# MERF Stack News App
+# MERF Stack News Scraping App
