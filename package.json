@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "date-fns": "^1.30.1",
+    "dotenv": "^8.0.0",
     "firebase": "^6.0.0",
     "firebase-admin": "^7.3.0",
     "firebase-functions": "^2.3.1",
